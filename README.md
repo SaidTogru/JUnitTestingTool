@@ -13,7 +13,7 @@ on Eclipse: FILE > OPEN PROJECTS FROM FILE SYSTEM > DIRECTORY > [select the test
 
 Open the class MyGuiTestRunner.java and press Run (Green Icon)
 
-# Feature
+# Features
 
 - Testing all Methods that have the annotation @Test with JUnit
 - Unlimited number of tests
