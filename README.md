@@ -23,9 +23,9 @@ Open the class MyGuiTestRunner.java and press Run (Green Icon)
 
 # Screenshots
 
-![screenshot--228-](https://user-images.githubusercontent.com/65668541/110051351-fae5fa00-7d55-11eb-8545-99fe3e435682.png)
+![1](https://user-images.githubusercontent.com/65668541/110053462-c116f280-7d59-11eb-927d-641b8e163f3a.png)
+![2 5](https://user-images.githubusercontent.com/65668541/110053965-8feaf200-7d5a-11eb-95c9-666b84f4e878.png)
 
-![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/65668541/110051906-f241f380-7d56-11eb-8344-e20b2c378238.png)
 
 
 
