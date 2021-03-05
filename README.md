@@ -1,4 +1,4 @@
-# TestingVisualizer
+# iTestRunner
 Summary: Java program that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
 
 # HOW TO download and setup
