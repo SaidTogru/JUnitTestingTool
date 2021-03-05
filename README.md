@@ -23,8 +23,8 @@ Open the class MyGuiTestRunner.java and press Run (Green Icon)
 
 # Screenshots
 
-![1](https://user-images.githubusercontent.com/65668541/110053462-c116f280-7d59-11eb-927d-641b8e163f3a.png)
-![2 5](https://user-images.githubusercontent.com/65668541/110053965-8feaf200-7d5a-11eb-95c9-666b84f4e878.png)
+![1](https://user-images.githubusercontent.com/65668541/110056764-acd5f400-7d5f-11eb-9661-750ee0d42bd5.png)
+![2 5](https://user-images.githubusercontent.com/65668541/110056774-b3646b80-7d5f-11eb-9aa2-de0bdb46c232.png)
 
 
 
