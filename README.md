@@ -1,5 +1,5 @@
 # TestingVisualizer
-Summary: Java programme that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
+Summary: Java program that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
 
 # HOW TO download and setup
 If you dont have have Eclipse IDE, download it here:https: //www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-12/R/eclipse-inst-jre-win64.exe  
