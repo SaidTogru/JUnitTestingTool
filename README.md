@@ -1,18 +1,6 @@
 # TestingVisualizer
 Summary: Java program that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
 
-# HOW TO download and setup
-If you dont have have Eclipse IDE, download it here:https: //www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-12/R/eclipse-inst-jre-win64.exe  
-For more help on how to set up Java and Eclipse, watch the video: https://www.youtube.com/watch?v=rSFraftR4I4
-
-git clone https://github.com/SaidTogru/TestingVisualizer.git 
-
-AND
-
-on Eclipse: FILE > OPEN PROJECTS FROM FILE SYSTEM > DIRECTORY > [select the testingvisualizer file] > FINISH
-
-Open the class MyGuiTestRunner.java and press Run (Green Icon)
-
 # Features
 
 - Testing all Methods that have the annotation @Test with JUnit
