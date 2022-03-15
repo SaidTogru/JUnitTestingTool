@@ -1,5 +1,5 @@
 # Java Unit Testing Tool
-Summary: Softwaretool that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
+Summary: Programming tool that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
 
 # Features
 
