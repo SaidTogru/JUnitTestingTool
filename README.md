@@ -1,12 +1,11 @@
-# TestingVisualizer
-Summary: Java program that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
+# Java Unit Testing Tool
+Summary: Softwaretool that combines all tests with the annotation @Test in a GUI, tests them and visualises them in a result-oriented way.
 
 # Features
 
-- Testing all Methods that have the annotation @Test with JUnit
 - Database entry in a database of your choice with test start, test end, failed-succeed status, reason
 - Creation of the test results also as XML file with the respective details
-- Stop/Reset tests
+- Able to Stop/Reset tests
 
 
 # Screenshots
