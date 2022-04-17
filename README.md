@@ -8,12 +8,6 @@ Summary: Programming tool that combines all tests with the annotation @Test in a
 - Able to Stop/Reset tests
 
 
-# Screenshots
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/65668541/142711627-0e7b1196-5a75-47ad-8230-ece66e175707.jpg" width="800px" align="left"  </img> 
-</div>
-
 
 
 
